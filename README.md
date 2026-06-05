@@ -70,11 +70,11 @@ https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv
 Smart-Analytics-Tool/
 │
 ├── app.py
-├── Smart_Analytics_Tool.ipynb
+├── smart_analytics_tool.ipynb
 ├── README.md
 ├── requirements.txt
 ├── dataset_link.txt
-└── screenshots/
+└── output_screenshots/
 ```
 
 ## How to Run the Project
